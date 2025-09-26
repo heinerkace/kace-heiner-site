@@ -6,7 +6,7 @@
     height:150px;
     border-radius:50%;
     flex-shrink:0;
-    background-image: url('images/headshot1.jpg');
+    background-image: url('images/headshot1.JPG');
     background-size: 165%;        /* zoom in */
     background-position: center 45%;  /* adjust face position */
     background-repeat: no-repeat;
