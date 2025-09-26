@@ -52,25 +52,25 @@
 
 <div class="projects-container">
 
-  <div class="project-card" onclick="window.open('https://github.com/kaceheiner/stock-etl', '_blank')">
+  <div class="project-card" onclick="window.open('https://github.com/heinerkace/stock-portfolio-etl', '_blank')">
     <div class="project-icon">📈</div>
     <div class="project-title">Stock Portfolio ETL</div>
     <div class="project-desc">ETL pipeline to extract, transform, and load stock and client data. Automates portfolio summaries.</div>
     <div class="project-tech">Tech: Python, SQLite, pandas, matplotlib</div>
   </div>
 
-  <div class="project-card" onclick="window.open('https://github.com/kaceheiner/window-detection', '_blank')">
-    <div class="project-icon">🏠</div>
-    <div class="project-title">Window Detection Prototype</div>
-    <div class="project-desc">Computer vision project to detect and count windows from house images.</div>
-    <div class="project-tech">Tech: Python, OpenCV, YOLOv8</div>
+  <div class="project-card" onclick="window.open('https://github.com/heinerkace/GoodStart/blob/main/BasketballNeuralNetwork.ipynb', '_blank')">
+    <div class="project-icon">🏀</div>
+    <div class="project-title">Basketball Neural Network</div>
+    <div class="project-desc">Python MLPRegressor Neural Network for player classification.</div>
+    <div class="project-tech">Tech: Python, MLPRegressor, ML</div>
   </div>
 
-  <div class="project-card" onclick="window.open('https://github.com/kaceheiner/finance-dashboard', '_blank')">
+  <div class="project-card" onclick="window.open('https://github.com/heinerkace/GoodStart/blob/main/RegressionModel.ipynb', '_blank')">
     <div class="project-icon">💰</div>
-    <div class="project-title">Personal Finance Dashboard</div>
-    <div class="project-desc">Cleaned and visualized financial data for personal budgeting.</div>
-    <div class="project-tech">Tech: Python, SQL, Tableau</div>
+    <div class="project-title">Ecommerce Analytics</div>
+    <div class="project-desc">Regression Model to predict yearly spend.</div>
+    <div class="project-tech">Tech: Python, MatPlotLib, Seaborn</div>
   </div>
 
 </div>
