@@ -1,0 +1,16 @@
+site_name: Kace Heiner
+theme:
+  name: material
+ 
+  palette:
+    scheme: slate
+    primary: teal
+    accent: lime
+  features:
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Resume: resume.md
